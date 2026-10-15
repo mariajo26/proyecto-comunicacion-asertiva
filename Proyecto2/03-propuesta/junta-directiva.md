@@ -4,12 +4,12 @@
 
 ## **Video de la junta directiva**
 
-<iframe width="560" height="315" src="https://youtu.be/Bs6YDS87CNQ" title="Elevator Pitch" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/fSyzdghpjsA" title="Elevator Pitch" frameborder="0" allowfullscreen></iframe>
 
 
 ## **Link del video**
 
-[Haz clic aquí para ver la junta directiva en YouTube](https://youtu.be/Bs6YDS87CNQ)
+[Haz clic aquí para ver la junta directiva en YouTube](https://youtu.be/fSyzdghpjsA)
 
 **Descripción:** Enlace directo al video de la junta directiva técnica, disponible como alternativa por si no se reproduce correctamente en la página.
 
