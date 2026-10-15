@@ -5,7 +5,7 @@
 ### Audio
 
 <audio controls>
-  <source src="/proyecto-comunicacion-asertiva/audio/Entrevista1.mp3" type="audio/mpeg" />
+  <source src="/scr/audio/Entrevista1.mp3" type="audio/mpeg" />
   Tu navegador no puede reproducir este audio.
 </audio>
 
@@ -13,11 +13,11 @@
 
 #### Evidencia 1
 
-![Diagrama de flujo del funcionamiento de la panadería](/../static/img/E1Evidencia1.jpeg)
+![Diagrama de flujo del funcionamiento de la panadería](/scr/img/E1Evidencia1.jpeg)
 
 #### Evidencia 2
 
-![Diagrama de flujo del funcionamiento de la panadería](/../static/img/E1Evidencia2.jpeg)
+![Diagrama de flujo del funcionamiento de la panadería](/scr/img/E1Evidencia2.jpeg)
 
 
 ## Segunda Entrevista
@@ -25,7 +25,7 @@
 ### Audio
 
 <audio controls>
-  <source src="/proyecto-comunicacion-asertiva/audio/Entrevista2_AudioMejorado.mp3" type="audio/mpeg" />
+  <source src="/scr/audio/Entrevista2_AudioMejorado.mp3" type="audio/mpeg" />
   Tu navegador no puede reproducir este audio.
 </audio>
 
@@ -33,10 +33,10 @@
 
 #### Evidencia 1
 
-![Diagrama de flujo del funcionamiento de la panadería](/../static/img/E2Evidencia1.jpeg)
+![Diagrama de flujo del funcionamiento de la panadería](/scr/img/E2Evidencia1.jpeg)
 
 #### Evidencia 2
 
-![Diagrama de flujo del funcionamiento de la panadería](/../static/img/E2Evidencia2.jpeg)
+![Diagrama de flujo del funcionamiento de la panadería](/scr/img/E2Evidencia2.jpeg)
 
 > **Nota:** Las dos entrevistadas prefirieron no ser fotografiadas ni grabadas, ya que no se sentían cómodas con ello. Por respeto a su decisión, no se incluyen fotografías ni videos de ellas como evidencia.

@@ -15,7 +15,7 @@ El problema debe resolverse antes de aceptar la primera versión del sistema, ya
 
 ### Mockup / Imagen
 
-![Issue total equivocado](/../static/img/Flujo_final.png)
+![Issue total equivocado](/scr/img/Issue.png)
 
 ### Pasos para reproducir (si aplica)
 
